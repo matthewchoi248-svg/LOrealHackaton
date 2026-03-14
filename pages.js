@@ -6,7 +6,8 @@ export const pages = [
         id: "loginIntro",
         variant: "login",
         title: "Have you taken this quiz before?",
-        subtitle: "Return to your fragrance profile or start a new discovery"
+        subtitle: "Return to your fragrance profile or start a new discovery",
+        backgroundImage: "./static/images/Registration.png",
     },
 
    {
